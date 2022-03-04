@@ -31,7 +31,7 @@ a{
 }
 
 .media-picture{
-    background-image: url('/img/vingadores-thanos-capa.jpg');
+    background-image: url('img/vingadores-thanos-capa.jpg');
     background-position: center;
     height: 400px;
     background-size: cover;
